@@ -32,6 +32,8 @@ Crear un proyecto Unity 3D básico que cumpla los siguientes requisitos:
 
 ### Incluye GameObjects de la Asset Store
 
+En la Asset Store me puse a buscar algún gameObject gratuito, donde encontré un fantasma que me gustó (Figura 4). Tras encontrar este gameObject lo importe al proyecto directamente (Figura 5).
+
 ![alt text](images/Unity_3D-5.png)
 
 *Figura 4: Asset Store de Unity*
@@ -42,7 +44,7 @@ Crear un proyecto Unity 3D básico que cumpla los siguientes requisitos:
 
 ### Convierte uno de los GameObjects incluido en el personaje
 
-Resetee los materiales del personaje
+El gameObject que decidí convertir fue el "Armature_Mesh" del personaje y lo que hice fue resetear los materiales del personaje. Los materiales los cambié del color por defecto que venían con el personaje de la asset store a los colores por defecto que tiene unity internatmente.
 
 ![alt text](images/Unity_3D-7.png)
 
