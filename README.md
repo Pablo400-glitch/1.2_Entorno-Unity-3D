@@ -59,3 +59,7 @@ Resetee los materiales del personaje
 *Figura 8: Iluminación Roja en el Juego*
 
 ### Generar un script que muestre en consola un mensaje
+
+![alt text](/Git_LFS/images/Unity_3D-10.png)
+
+*Figura 9: Ejecución del Script*
