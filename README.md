@@ -60,6 +60,6 @@ Resetee los materiales del personaje
 
 ### Generar un script que muestre en consola un mensaje
 
-![alt text](/Git_LFS/images/Unity_3D-10.png)
+![alt text]( images/Unity_3D-10.png)
 
 *Figura 9: Ejecución del Script*
